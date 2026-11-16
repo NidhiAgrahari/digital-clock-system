@@ -14,6 +14,7 @@ Verilog HDL, Xilinx Vivado, Integrated Logic Analyzer (ILA)
 - Sec_counter.v: Seconds counter (0 to 59)
 - Minutes_counter.v: Minutes counter (0 to 59)
 - Hours_counter.v: Hours counter (0 to 23)
+- pins.xdc:Constraints file (clock and pin assignments)
 
 ## Design Details
 - Input clock: 100 MHz
